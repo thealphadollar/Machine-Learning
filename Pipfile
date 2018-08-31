@@ -8,7 +8,9 @@ name = "pypi"
 [packages]
 numpy = "*"
 matplotlib = "*"
-panda = "*"
+pandas = "*"
+sklearn = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.6"
